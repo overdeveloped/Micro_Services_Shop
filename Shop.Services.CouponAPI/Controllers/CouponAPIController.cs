@@ -8,7 +8,7 @@ using Shop.Services.CouponAPI.Models.DTO;
 
 namespace Shop.Services.CouponAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/coupon")]
     [ApiController]
     public class CouponAPIController : ControllerBase
     {

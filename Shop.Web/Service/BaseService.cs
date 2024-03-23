@@ -24,6 +24,7 @@ namespace Shop.Web.Service
             message.Headers.Add("Accept", "application/json");
             // TODO: TOKEN
             message.RequestUri = new Uri(requestDTO.Url);
+
             // Check for body:
             if (requestDTO.Data != null)
             {
