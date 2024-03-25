@@ -11,9 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{0D912C64-04A9-479D-8992-16DD93E541B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Services.CouponAPI", "Shop.Services.CouponAPI\Shop.Services.CouponAPI.csproj", "{453AB91D-2633-4F11-8E5D-F0F519230E73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Services.CouponAPI", "Shop.Services.CouponAPI\Shop.Services.CouponAPI.csproj", "{453AB91D-2633-4F11-8E5D-F0F519230E73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Web", "Shop.Web\Shop.Web.csproj", "{70C3D2E7-D523-4871-9282-F2985CAD592E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Web", "Shop.Web\Shop.Web.csproj", "{70C3D2E7-D523-4871-9282-F2985CAD592E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
